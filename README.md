@@ -12,9 +12,9 @@ as users are logged in and working. This software is for Farming Simulator 2017.
 I am looking for people to help with this project or that would like to work together to get something good out of what I 
 have already done. 
 
+This software is AS-IS and if you need anything let me know. This is Aplha and not cleaned up at all. 
+
 Install Steps:
-1. 
-2. 
-3.
-4.
-5.
+1. You just upload to your site 
+2. I every page you need to set your xml from your dedi box
+
